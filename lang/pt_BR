@@ -1,0 +1,31 @@
+# Arquivo de localização para Portugues do Brasil para o  Sparky Eraser.
+# Copyright 2015 PaweÅ‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
+# Traduzido por Claudio Cesar de Sá "ccs1664" <ccs1664@gmail.com> 20/01/2016
+# Sob a Licença GNU GPL v2
+# Última atualização 29/01/2016
+
+LOCAL1="Nome"
+LOCAL2="Descrição"
+LOCAL3="Sair"
+LOCAL4="Por gentileza selecione uma opção:"
+LOCAL5="O que é o Sparky Eraser e o que este aplicativo faz?"
+LOCAL6="Apaga um arquivo"
+LOCAL7="Apaga uma pasta (diretório) e seus  conteúdos"
+LOCAL8="Sparky Eraser é uma ferramenta a qual pode apagar de modo definitivo (permanente) arquivos e diretórios. \nArquivos e pastas (diretórios) excluídos pelo Sparky Eraser não podem ser recuperados facilmente."
+LOCAL9="Este aplicativo é apropriado para pessoas que estão SEGURAS em excluir certos arquivos e pastas (diretórios). \nEle trabalha com arquivos e pastas (diretórios) localizados em seu diretório privado HOME,  discos rígidos e partições, as  quais voce tenha acesso irrestrito."
+LOCAL10="Se voce gostar de usar o Eraser sobre  outros arquivos ou diretórios, com privilégios de root, então execute:"
+LOCAL11="Sparky Eraser é simplesmente um  front-end do tipo GUI para ferramentas do tipo SHRED e WIPE. \nPara obter mais  informações  sobre a ferramenta, execute:"
+LOCAL12="Use o Sparky Eraser cuidadosamente sobre seu próprio risco (responsabilidade). \nSparky Eraser é publicado sob a Licença GNU GPL v2."
+LOCAL13="Selecione um arquivo do seu  drive local para ser excluído (apagado)"
+LOCAL14="Nada foi  excluído! \n\nClique OK para sair."
+LOCAL15="Voce tem certeza que deseja excluir de modo permanente o arquivo:"
+LOCAL16="Clique OK para iniciar"
+LOCAL17="Apagando o  arquivo agora. Aguarde..."
+LOCAL18="Feito! \n\nClique OK para sair..."
+LOCAL19="Selecione um diretório  do seu  drive local para ser excluído (apagado)"
+LOCAL20="Voce tem certeza que deseja excluir de modo permanente o diretório:"
+LOCAL21="para sair."
+
+### .desktop arquivo to be translated too
+# Name[pt_BR]=
+# Comment[pt_BR]=Exclui de modo permanente arquivos e diretórios

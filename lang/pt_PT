@@ -1,0 +1,31 @@
+# Ficheiro de localização para Português para o Sparky Eraser.
+# Copyright 2015 PaweÅ‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
+# Traduzido por José Vieira "zeh" <jvieira33@sapo.pt> 03/11/20166
+# Sob a Licença GNU GPL v2
+# Última atualização 2016/01/10
+
+LOCAL1="Nome"
+LOCAL2="Descrição"
+LOCAL3="Sair"
+LOCAL4="Selecionar uma opção:"
+LOCAL5="O que é o Sparky Eraser e o que faz?"
+LOCAL6="Elimina um ficheiro"
+LOCAL7="Elimina uma pasta (diretoria) e o seu conteúdo"
+LOCAL8="O Sparky Eraser é uma ferramenta que pode eliminar de modo definitivo (permanente) ficheiros e pastas. \nFicheiros e pastas (diretorias) eliminados pelo Sparky Eraser não podem ser recuperados facilmente."
+LOCAL9="Esta aplicação é adequada ao uso por pessoas que pretendam eliminar certos ficheiros e pastas (diretorias) de forma segura. \nTrabalha com ficheiros e pastas (diretorias) localizados na diretoria pessoal HOME e em discos rígidos e partições a que tenha acesso irrestrito."
+LOCAL10="Se pretender usar o Eraser para apagar outros ficheiros ou pastas, com privilégios de administrador (root), execute:"
+LOCAL11="O Sparky Eraser é apenas uma interface gráfica para ferramentas SHRED e WIPE. \nPara obter mais  informações  sobre as ferramentas, execute:"
+LOCAL12="Use o Sparky Eraser com cuidado, à sua responsabilidade. \nO Sparky Eraser é publicado sob a Licença GNU GPL v2."
+LOCAL13="Selecione um ficheiro dum disco local para ser eliminado"
+LOCAL14="Nada foi  eliminado! \n\nClique OK para sair."
+LOCAL15="Eliminar o ficheiro de modo permanente:"
+LOCAL16="Clique OK para iniciar ou"
+LOCAL17="A eliminar o  ficheiro. Aguarde..."
+LOCAL18="Feito! \n\nClique OK para sair..."
+LOCAL19="Selecione uma pasta dum disco local para ser eliminada"
+LOCAL20="Eliminar a pasta de modo permanente:"
+LOCAL21="para sair."
+
+### .desktop ficheiro to be translated too
+# Name[pt_PT]=Sparky Eraser
+# Comment[pt_PT]=Elimina de modo permanente ficheiros e pastas

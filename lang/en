@@ -1,0 +1,30 @@
+# English localization file for Sparky Eraser.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
+# Under the GNU GPL v2
+# Last update 2016/01/10
+
+LOCAL1="Name"
+LOCAL2="Description"
+LOCAL3="Exit"
+LOCAL4="Please select an option:"
+LOCAL5="What is Sparky Eraser and what does it do?"
+LOCAL6="Erase a file"
+LOCAL7="Erase a folder and its contents"
+LOCAL8="Sparky Eraser is a tool which can pernamently erase files and directories. \nDeleted files and folders by Sparky Eraser can't be recovered easily."
+LOCAL9="It is suitable for people whose want to securely delete their files and folders. \nIt works with files and folders located in your private HOME directory and disks and partitions you have full access to."
+LOCAL10="If you'd like to use Eraser on other files or directories, with root privileges, run:"
+LOCAL11="Sparky Eraser is a simply GUI front-end for SHRED and WIPE tools. \nTo get more informations about the tools, run:"
+LOCAL12="Use Sparky Eraser carefully at your own risk. \nSparky Eraser is published under GNU GPLv2 License."
+LOCAL13="Select a file from a local drive to be erased"
+LOCAL14="Nothing has been erased! \n\nClick OK to quit."
+LOCAL15="Are you sure you would like to pernamently erase the file:"
+LOCAL16="Click OK to start or"
+LOCAL17="Erasing the file now. Please wait..."
+LOCAL18="Done! \n\nClick OK to quit..."
+LOCAL19="Select a directory from a local drive to be erased"
+LOCAL20="Are you sure you would like to pernamently erase the directory:"
+LOCAL21="to quit."
+
+### .desktop file to be translated too
+# Name[en_US]=
+# Comment[en_US]=Pernamently erase files and directories

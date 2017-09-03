@@ -1,0 +1,30 @@
+# Svensk språkfil för Sparky Eraser.
+# Copyright 2015 Johnny Rosenberg <johnny.a.rosenberg@gmail.com> 2015-11-19
+# Under GNU GPL v2
+# Senast uppdaterad 2015-11-19
+
+LOCAL1="Namn"
+LOCAL2="Beskrivning"
+LOCAL3="Avsluta"
+LOCAL4="Vänligen välj:"
+LOCAL5="Vad är Sparky eraser och vad gör den?"
+LOCAL6="Radera en fil"
+LOCAL7="Radera en katalog och dess innehåll"
+LOCAL8="Sparky Eraser är ertt verktyg som kan radera filer och kataloger permanent.\nFiler och kataloger som raderats av Sparky Eraser kan inte enkelt återställas."
+LOCAL9="Det passar för folk som på ett säkert sätt vill radera sina filer och mappar.\nDet fungerar med filer och mappar i din HOME-katalog och hårddiskar och partitioner du har full behörighet till."
+LOCAL10="Om du vill använda Eraser till andra filer och kataloger med administratörsbehörighet, kör:"
+LOCAL11="Sparky Eraser är ett enkelt grafiskt användargränssnitt för verktygen SHRED och WIPE.\nFör mer information om dessa verktyg, kör:"
+LOCAL12="Använd Sparky Eraser med försiktighet och på egen risk.\nSparky Eraser är publicerad under licensen GNU GPLv2."
+LOCAL13="Välj en fil på en lokal hårddisk att radera"
+LOCAL14="Ingenting har raderats!\n\nKlicka OK för att avsluta."
+LOCAL15="Är du säker på att du vill radera följande fil permanent?"
+LOCAL16="Klick OK för att börja eller"
+LOCAL17="Raderar filen nu. Vänligen vänta…"
+LOCAL18="Klart!\n\nKlicka OK för att avsluta…"
+LOCAL19="Välj en katalog på en lokal hårddisk att radera"
+LOCAL20="Är du säker på att du vill radera följande katalog permanent?"
+LOCAL21="för att avsluta."
+
+### .desktop file to be translated too
+# Name[sv_SE]=
+# Comment[sv_SE]=Radera filer och kataloger permanent

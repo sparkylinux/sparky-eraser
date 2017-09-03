@@ -1,0 +1,31 @@
+# Japanese localization file for Sparky Eraser.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
+# Under the GNU GPL v2
+# Last update 2015/12/23
+# Translated to Japanese by BALLOON a.k.a. Fu-sen.
+
+LOCAL1="名前"
+LOCAL2="説明"
+LOCAL3="終了"
+LOCAL4="オプションを選んで下さい:"
+LOCAL5="Sparky Eraser は何を行うでしょうか？"
+LOCAL6="ファイルの削除"
+LOCAL7="フォルダと中のコンテンツを削除"
+LOCAL8="Sparky Eraser は恒久的にファイルやディレクトリを消去することができるツールです。 \nSparky Eraser より削除されたファイルやフォルダを簡単に復旧できません。"
+LOCAL9="これは安全にファイルやフォルダを削除したい人に適しています。 \nファイルやプライベートホームディレクトリにあるフォルダやディスクやパーティションへのフルアクセス権を持って対応しています。"
+LOCAL10="root 権限で他のファイルまたはディレクトリに Eraser を使用したい場合は、これを実行します:"
+LOCAL11="Sparky Eraser は SHRED・WIPE を用いたシンプルな GUI フロントエンドツールです。 \nツールの詳細情報を取得するには、次を実行します:"
+LOCAL12="ご自身の責任で慎重に Sparky Eraser を使用してください。 \nSparky Eraserは、GNU GPLv2 ライセンス下で公開されています。"
+LOCAL13="ローカルドライブの消去するファイルを選択して下さい"
+LOCAL14="何も消去されていません！ \n\nOK をクリックして終了します。"
+LOCAL15="永久にこれらのファイルを消去します:"
+LOCAL16="OK をクリックして開始します または "
+LOCAL17="ファイルを消去しています。お待ち下さい..."
+LOCAL18="完了！ \n\nOK のクリックで終了します..."
+LOCAL19="ローカルドライブの消去するディレクトリを選択して下さい"
+LOCAL20="永久にこれらのディレクトリを消去します:"
+LOCAL21="終了"
+
+### .desktop file to be translated too
+# Name[ja_JP]=
+# Comment[ja_JP]=ファイル・ディレクトリの永久的な消去

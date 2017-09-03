@@ -1,0 +1,1 @@
+?package(sparky-eraser):needs="X11" section="Applications/Utility"        title="Eraser" command="/usr/bin/sparky-eraser" icon="user-trash-full"

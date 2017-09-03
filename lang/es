@@ -1,0 +1,30 @@
+# Archivo de localización en español para Sparky Eraser.
+# Copyright 2015 Fernando "seacat" Velo <seacat.linux@gmail.com> 2015/12/23
+# Bajo la licencia GNU GPL v2
+# Ultima actualización 2015/12/23
+
+LOCAL1="Nombre"
+LOCAL2="Descripción"
+LOCAL3="Salir"
+LOCAL4="Por favor, elija una opción:"
+LOCAL5="¿Qué es el Borrador de Sparky y qué hace?"
+LOCAL6="Borrar un archivo"
+LOCAL7="Borrar una carpeta y todo su contenido"
+LOCAL8="El Borrador de Sparky es una herramienta que puede borrar permanentemente archivos y directorios. \nLos archicos y carpetas borrados por el Borrador de Sparky no se pueden recuperar fácilmente."
+LOCAL9="Es adecuado para gente que quiere borrar con seguridad sus archivos y carpetas. \nFunciona con archivos y carpetas localizados en su directorio privado HOME y en discos y particiones a los que Ud tenga acceso total."
+LOCAL10="Si Ud quiere usar el Borrador con otros archivos o directorios, con privilegios de «root», ejecute:"
+LOCAL11="El Borrador de Sparky es simplemente una interfaz gráfica para las herramientas SHRED y WIPE. \nPara obtener más información acerca de las herramientas, ejecute:"
+LOCAL12="Use el Borrador de Sparky con cuidado y bajo su propio riesgo. \nEl Borrador de Sparky se publica bajo la licencia GNU GPLv2."
+LOCAL13="Elegir el archivo a borrar en su disco local"
+LOCAL14="¡No se borró nada! \n\nHacer clic en OK para salir."
+LOCAL15="¿Está seguro de querer borrar permanentemente el archivo:"
+LOCAL16="Hacer clic en OK para comenzar o"
+LOCAL17="Borrando el archivo ahora. Por favor espere..."
+LOCAL18="¡Hecho! \n\nHacer clic en OK para salir..."
+LOCAL19="Elegir el directorio a borrar en su disco local"
+LOCAL20="¿Está seguro de querer borrar permanentemente el directorio:"
+LOCAL21="para salir."
+
+### .desktop file to be translated too
+# Name[es_AR]=
+# Comment[es_AR]=Borra permanentemente archivos y directorios

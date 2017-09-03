@@ -1,0 +1,31 @@
+# English localization file for Sparky Eraser.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
+# Under the GNU GPL v2
+# Last update 2016/02/28
+# Translated to German by lunatic
+
+LOCAL1="Name"
+LOCAL2="Beschreibung"
+LOCAL3="Beenden"
+LOCAL4="Bitte treffen Sie eine Wahl:"
+LOCAL5="Was ist Sparky Eraser und was macht er?"
+LOCAL6="Eine Datei löschen"
+LOCAL7="Einen Ordner und seine Inhalte löschen"
+LOCAL8="Sparky Eraser ist ein Werkzeug, das dauerhaft Dateien und Verzeichnisse löschen kann. \nVon Sparky Eraser gelöschte Ordner und Verzeichnisse können NICHT problemlos wiederhergestellt werden."
+LOCAL9="Es ist geeignet für Leute, die ihre Dateien und Ordnner sicher löschen wollen. \nEs funktioniert mit Dateien und Ordnern, die sich in Ihrem privatem HOME-Verzeichnis sowie Festplatten und Partitionen befinden, auf die sie vollen Zugriff haben."
+LOCAL10="Wenn Sie den Eraser für andere Dateien oder Verzeichnisse verwenden möchten, führen Sie ihn mit Root-Rechten aus:"
+LOCAL11="Sparky Eraser ist ein einfaches GUI-Front-End für Schredder- und Löschwerkzeuge. \nFür weitere Informationen über die Werkzeuge führen Sie aus:"
+LOCAL12="Benutzen Sie Sparky Eraser vorsichtig auf Ihr eigenes Risiko. \nSparky Eraser wird unter der GNU-GPLv2-Lizenz veröffentlicht."
+LOCAL13="Wählen Sie eine Datei eines lokalen Laufwerks aus, die gelöscht werden soll"
+LOCAL14="Es wurde nichts gelöscht! \n\nKlicken Sie OK für Beenden."
+LOCAL15="Sind Sie sicher, dass Sie die Datei dauerhaft löschen wollen?:"
+LOCAL16="Klicken Sie OK um zu starten"
+LOCAL17="Die Datei wird nun gelöscht. Bitte warten Sie..."
+LOCAL18="Fertig! \n\nKlicken Sie OK für Beenden..."
+LOCAL19="Wählen Sie ein Verzeichnis eines lokalen Laufwerks aus, das gelöscht werden soll"
+LOCAL20="Sind Sie sicher, dass Sie das Verzeichnis dauerhaft löschen wollen?:"
+LOCAL21="für Beenden"
+
+### .desktop file to be translated too
+# Name[de_DE]=Sparky Eraser
+# Comment[de_DE]=Dateien und Verzeichnisse dauerhaft löschen

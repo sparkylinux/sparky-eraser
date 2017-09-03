@@ -1,0 +1,137 @@
+#!/bin/bash
+
+#  Sparky Eraser is a simply GUI front-end for 'shred' and 'wipe' tools
+#  Created by Paweł "pavroo" Pijanowski 2014/02/10
+#  Last updated 2016/11/07
+#  Copyright 2014, 2015, 2016 under the GNU GPL2 License
+
+# get default locale file
+DEFLOCDIR="/usr/share/sparky/sparky-eraser"
+if [ "`cat /etc/default/locale | grep de_DE`" != "" ]; then
+. $DEFLOCDIR/de
+elif [ "`cat /etc/default/locale | grep es_AR`" != "" ]; then
+. $DEFLOCDIR/es
+elif [ "`cat /etc/default/locale | grep fr_FR`" != "" ]; then
+. $DEFLOCDIR/fr
+elif [ "`cat /etc/default/locale | grep it_IT`" != "" ]; then
+. $DEFLOCDIR/it
+elif [ "`cat /etc/default/locale | grep ja_JP`" != "" ]; then
+. $DEFLOCDIR/ja
+elif [ "`cat /etc/default/locale | grep pl_PL`" != "" ]; then
+. $DEFLOCDIR/pl
+elif [ "`cat /etc/default/locale | grep pt_BR`" != "" ]; then
+. $DEFLOCDIR/pt_BR
+elif [ "`cat /etc/default/locale | grep pt_PT`" != "" ]; then
+. $DEFLOCDIR/pt_PT
+elif [ "`cat /etc/default/locale | grep sv_SE`" != "" ]; then
+. $DEFLOCDIR/se
+else
+. $DEFLOCDIR/en
+fi
+
+DIALOG="`which yad` --window-icon=user-trash-full --width=450 --height=250 --center"
+DIALOG800="`which yad` --window-icon=user-trash-full --width=800 --height=600 --center"
+DIALOG600="`which yad` --window-icon=user-trash-full --width=600 --height=350 --center"
+DIALOG150="`which yad` --window-icon=user-trash-full --width=450 --height=150 --center"
+TITLE="--always-print-result --dialog-sep --image=user-trash-full --title="
+TEXT="--text="
+ENTRY="--entry "
+ENTRYTEXT="--entry-text "
+FILESELECTION="--file-selection "
+DIRSELECTION="--file-selection --directory"
+MENU="--list --column=$LOCAL1 --column=$LOCAL2"
+OKEXIT=" --button=OK:0 --button=$LOCAL3:1 "
+MSGBOX=" --button=Ok:0 "
+TITLETEXT="Eraser"
+
+mainmenu () {
+
+CHOICES=`$DIALOG $TITLE"$TITLETEXT" $OKEXIT $MENU $TEXT"$LOCAL4" \
+About "$LOCAL5" \
+File "$LOCAL6" \
+Directory "$LOCAL7"`
+
+if [ "$?" = "0" ]; then
+	CHOICE=`echo $CHOICES | cut -d "|" -f 1`
+else
+	exit 0
+fi
+
+if [ "$CHOICE" = "About" ]; then
+$DIALOG600 $TITLE"$TITLETEXT" $MSGBOX $TEXT"\n$LOCAL8\n\
+\n\
+$LOCAL9\n\
+\n\
+$LOCAL10\n\
+su/sudo/remsu sparky-eraser \n\
+\n\
+$LOCAL11\n\
+man shred \n\
+man wipe \n\
+\n\
+$LOCAL12"
+	mainmenu
+elif [ "$CHOICE" = "File" ]; then
+	filemenu
+elif [ "$CHOICE" = "Directory" ]; then
+	directorymenu
+else
+	exit 0
+fi
+}
+
+filemenu () {
+ERASEFILE=`$DIALOG800 $TITLE"$LOCAL13" $OKEXIT $FILESELECTION`
+
+if [ "$?" != "0" ]; then
+	$DIALOG150 $TITLE"$TITLETEXT" $MSGBOX $TEXT"$LOCAL14"
+	exit 0
+
+else
+	$DIALOG $TITLE"$TITLETEXT" $OKEXIT $TEXT"$LOCAL15 \n$ERASEFILE ? \n\n$LOCAL16 $LOCAL3 $LOCAL21"
+
+	if [ "$?" != "0" ]; then
+		$DIALOG150 $TITLE"$TITLETEXT" $MSGBOX $TEXT"$LOCAL14"
+		exit 0
+
+	else
+		$DIALOG150 $TITLE"$TITLETEXT" --no-buttons --progress --pulsate $TEXT"$LOCAL17\n" & shred -fuz -n5 $ERASEFILE
+		killall -KILL yad
+		
+	fi
+
+	$DIALOG150 $TITLE"$TITLETEXT" $MSGBOX $TEXT"$LOCAL18"
+fi
+
+mainmenu
+
+}
+
+directorymenu () {
+ERASEDIR=`$DIALOG800 $TITLE"$LOCAL19" $OKEXIT $DIRSELECTION`
+
+if [ "$?" != "0" ]; then
+	$DIALOG150 $TITLE"$TITLETEXT" $MSGBOX $TEXT"$LOCAL14"
+	exit 0
+
+else
+	$DIALOG $TITLE"$TITLETEXT" $OKEXIT $TEXT"$LOCAL20 \n$ERASEDIR ? \n\n$LOCAL16 $LOCAL3 $LOCAL21"
+
+	if [ "$?" != "0" ]; then
+		$DIALOG150 $TITLE"$TITLETEXT" $MSGBOX $TEXT"$LOCAL14"
+		exit 0
+
+	else
+		$DIALOG150 $TITLE"$TITLETEXT" --no-buttons --progress --pulsate $TEXT"$LOCAL17\n" & wipe -rcfq $ERASEDIR
+		killall -KILL yad
+
+	fi
+
+	$DIALOG150 $TITLE"$TITLETEXT" $MSGBOX $TEXT"$LOCAL18"
+fi
+
+mainmenu
+
+}
+
+mainmenu

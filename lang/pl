@@ -1,0 +1,31 @@
+# Polish localization file for Sparky Eraser.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
+# Under the GNU GPL v2
+# Last update 2015/10/31
+# Translated to Polish by pavroo
+
+LOCAL1="Nazwa"
+LOCAL2="Opis"
+LOCAL3="Zakończ"
+LOCAL4="Proszę wybrać jedną z opcji:"
+LOCAL5="Co to jest i co robi Sparky Eraser?"
+LOCAL6="Usuń plik"
+LOCAL7="Usuń folder wraz zawartością"
+LOCAL8="Sparky Eraser umożliwia pernamentne usunięcie plików i folderów. \nPrzywrócenie usuniętych plików i folderów za pomocą Sparky Eraser nie jest proste."
+LOCAL9="Aplikacja przeznaczona jest dla osób, które chcą bezpiecznie usunąć pliki i foldery. \nProgram działa na plikach i folderach ulokowanych w Twoim katalogu domowym HOME oraz dyskach i partycjach, do których masz pełny dostęp."
+LOCAL10="Jeśli chcesz użyć Eraser na innych plikach i foderach, uruchom go z prawami administratora systemu:"
+LOCAL11="Sparky Eraser dostarcza prosty interfejs dla programów SHRED oraz WIPE. \nAby uzyskać więcej informacji o tych narzędziach, użyj poleceń:"
+LOCAL12="Używaj ostrożnie Sparky Eraser, robisz to na własne ryzyko. \nSparky Eraser udostępniony jest na licencji GNU GPLv2."
+LOCAL13="Wybierz plik do usunięcia z dysku lokalnego"
+LOCAL14="Nic nie zostało usunięte! \n\nKliknij OK aby zakończyć."
+LOCAL15="Jesteś pewny, że chcesz pernamentnie usunąć plik:"
+LOCAL16="Kliknij OK aby rozpocząć lub"
+LOCAL17="Usuwanie pliku. Proszę czekać..."
+LOCAL18="Zrobione! \n\nKliknij OK aby zakończyć..."
+LOCAL19="Wybierz folder do usunięcia z dysku lokalnego"
+LOCAL20="Jesteś pewny, że chcesz pernamentnie usunąć katalog:"
+LOCAL21="aby zakończyć."
+
+### .desktop file, również do przetłumaczenia
+# Name[pl_PL]=
+# Comment[pl_PL]=Pernamentnie usuń pliki i katalogi

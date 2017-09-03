@@ -1,0 +1,30 @@
+# File di localizzazione italiano per Sparky Eraser.
+# Copyright 2015 Carlo Troiani <troianicarlo@gmail.com> 31/10/2015
+# Rilasciato sotto licenza GNU GPL v2
+# Ultimo aggiornamento 31/10/2015
+
+LOCAL1="Nome"
+LOCAL2="Descrizione"
+LOCAL3="Esci"
+LOCAL4="Prego effettua una scelta:"
+LOCAL5="Cosa è Sparky Eraser e cosa combina?"
+LOCAL6="Cancella un file"
+LOCAL7="Cancella una cartella ed il suo contenuto"
+LOCAL8="Sparky Eraser è uno strumento che cancella in maniera irreversibile file e cartelle. \nI file e le cartelle cancellate da Sparky Eraser non possono essere recuperati tanto facilmente..."
+LOCAL9="È uno strumento adatto per coloro i quali vogliono cancellare in maniera sicura i propri file e cartelle. \nFunziona solo con i file e le cartelle che si trovano nella propria HOME e con i dischi e partizioni cui si ha pieno accesso."
+LOCAL10="Se i file o le directory che devi cancellare richiedono i privilegi di root, esegui:"
+LOCAL11="Sparky Eraser è una semplicen interfaccia utente per i programmi SHRED e WIPE. \nPer ottenere più informazioni sui programmi, esegui:"
+LOCAL12="Chi usa Sparky Eraser lo fa a proprio rischio e pericolo. \nSparky Eraser è rilasciato sotto licenza GNU GPLv2."
+LOCAL13="Seleziona il file che vuoi cancellare da un drive locale"
+LOCAL14="Non è stato cancellato nulla! \n\nClicca su OK per uscire."
+LOCAL15="Sei sicuro di voler cancellare in maniera permanente:"
+LOCAL16="Clicca su OK per iniziare, o"
+LOCAL17="Adesso sto cancellando il file. Prego aspetta..."
+LOCAL18="Fatto! \n\nClicca su OK per uscire..."
+LOCAL19="Seleziona la cartella che vuoi cancellare da un drive locale"
+LOCAL20="Sei sicuro di voler cancellare in maniera permanente la cartella:"
+LOCAL21="per uscire."
+
+### .desktop file to be translated too
+# Name[it_IT]=
+# Comment[it_IT]=Cancella in maniera definitiva file e cartelle

@@ -1,0 +1,30 @@
+﻿# Fichier de localisation française de Sparky Eraser.
+# Copyright 2016 hiver <hiver@club-internet.fr> 2016/05/12
+# Sous licence GNU GPL v2
+# Dernière mise à jour 2016/06/05
+
+LOCAL1="Nom"
+LOCAL2="Description"
+LOCAL3="Quitter"
+LOCAL4="S'il vous plaît, choisissez une option:"
+LOCAL5="Qu'est-ce que Sparky Eraser et que fait-il?"
+LOCAL6="Effacer un fichier"
+LOCAL7="Effacer un répertoire et son contenu"
+LOCAL8="Sparky Eraser est un outil qui peut effacer définitivement fichiers ou répertoires. \nLes fichiers et dossiers détruit par Sparky Eraser ne peuvent pas facilement être récupérés."
+LOCAL9="Il convient aux personnes qui veulent détruire de façon sure leurs fichiers ou répertoires. \nIl fonctionne avec les fichiers ou répertoires située dans votre répertoire HOME personnel et sur les disques et partitions dont vous possédez tous les droits d'accès."
+LOCAL10="Si vous voulez utiliser Eraser sur d'autres fichiers ou répertoires, avec les droits Root, lancez:"
+LOCAL11="Sparky Eraser est une simple interface pour les outils SHRED et WIPE. \n Pour plus d'information sur ces outils, lancez:"
+LOCAL12="Utilisez Sparky Eraser avec précaution et à vos propres risques. \nSparky Eraser est publié sous License GNU GPLv2."
+LOCAL13="Sélectionnez un fichier d'un disque local pour effacement"
+LOCAL14="Rien n'a été effacé! \n\nCliquer OK pour quitter."
+LOCAL15="Êtes-vous sûr de vouloir effacer définitivement le fichier:"
+LOCAL16="Cliquer OK pour commencer ou"
+LOCAL17="Effacement du fichier en cours. Veuillez patienter..."
+LOCAL18="Fait! \n\nCliquez sur OK pour quitter..."
+LOCAL19="Sélectionnez un répertoire d'un disque local pour effacement"
+LOCAL20="Êtes-vous sûr de vouloir effacer définitivement le répertoire:"
+LOCAL21="Pour quitter."
+
+### .desktop file to be translated too
+# Name[fr_FR]=Effacement
+# Comment[fr_FR]=effacer définitivement fichiers ou répertoires
