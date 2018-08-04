@@ -1,8 +1,7 @@
 # File di localizzazione italiano per Sparky Eraser.
 # Copyright 2015 Carlo Troiani <troianicarlo@gmail.com> 31/10/2015
 # Rilasciato sotto licenza GNU GPL v2
-# Ultimo aggiornamento 31/10/2015
-
+# Last update 2018/08/03 by pavroo
 LOCAL1="Nome"
 LOCAL2="Descrizione"
 LOCAL3="Esci"
@@ -24,7 +23,6 @@ LOCAL18="Fatto! \n\nClicca su OK per uscire..."
 LOCAL19="Seleziona la cartella che vuoi cancellare da un drive locale"
 LOCAL20="Sei sicuro di voler cancellare in maniera permanente la cartella:"
 LOCAL21="per uscire."
-
 ### .desktop file to be translated too
 # Name[it_IT]=
 # Comment[it_IT]=Cancella in maniera definitiva file e cartelle

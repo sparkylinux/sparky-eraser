@@ -1,9 +1,8 @@
 # English localization file for Sparky Eraser.
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
 # Under the GNU GPL v2
-# Last update 2016/02/28
+# Last update 2018/08/03 by pavroo
 # Translated to German by lunatic
-
 LOCAL1="Name"
 LOCAL2="Beschreibung"
 LOCAL3="Beenden"
@@ -25,7 +24,6 @@ LOCAL18="Fertig! \n\nKlicken Sie OK für Beenden..."
 LOCAL19="Wählen Sie ein Verzeichnis eines lokalen Laufwerks aus, das gelöscht werden soll"
 LOCAL20="Sind Sie sicher, dass Sie das Verzeichnis dauerhaft löschen wollen?:"
 LOCAL21="für Beenden"
-
 ### .desktop file to be translated too
 # Name[de_DE]=Sparky Eraser
 # Comment[de_DE]=Dateien und Verzeichnisse dauerhaft löschen

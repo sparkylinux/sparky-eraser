@@ -1,0 +1,30 @@
+# Indonesian localization file for Sparky Eraser.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
+# Under the GNU GPL v2
+# Last update 2018/08/03 by pavroo
+# Translated to Indonesian by les kompie
+LOCAL1="Nama"
+LOCAL2="Deskripsi"
+LOCAL3="Keluar"
+LOCAL4="Pilih salah satu:"
+LOCAL5="Apa itu Sparky Eraser dan apa fungsinya?"
+LOCAL6="Hapus file"
+LOCAL7="Hapus folder dan isinya"
+LOCAL8="Sparky Eraser adalah tool yang dapat menghapus file dan direktori secara permanen. \nFile dan folder yang dihapus oleh Sparky Eraser tidak gampang dipulihkan."
+LOCAL9="Sangat cocok bagi orang yang mau menghapus file dan folder mereka secara aman. \nBerfungsi pada file dan folder yang ada di direktori pribadi HOME, disk dan partisi di mana anda punya akses penuh."
+LOCAL10="Jika anda mau menggunakan Eraser pada file atau direktori lain, dengan hak akses root, jalankan:"
+LOCAL11="Sparky Eraser sebenarnya adalah front-end GUI untuk tool SHRED dan WIPE. \nUntuk mendapatkan informasi lebih lanjut tentang tool ini, jalankan:"
+LOCAL12="Gunakan Sparky Eraser dengan hati-hati, risiko anda tanggung sendiri. \nSparky Eraser diterbitkan di bawah lisensi GNU GPLv2."
+LOCAL13="Pilih file yang mau dihapus dari drive lokal"
+LOCAL14="Tidak ada yang dihapus! \n\nKlik OK untuk keluar."
+LOCAL15="Apakah anda yakin mau menghapus secara permanen file:"
+LOCAL16="Klik OK untuk mulai atau"
+LOCAL17="Sekarang menghapus file. Mohon tunggu..."
+LOCAL18="Selesai! \n\nKlik OK untuk keluar..."
+LOCAL19="Pilih direktori yang mau dihapus dari drive lokal"
+LOCAL20="Apakah anda yakin mau menghapus secara permanen direktori:"
+LOCAL21="berhenti."
+### .desktop file to be translated too
+# Name[id_ID]=
+# Comment[id_ID]=Menghapus file dan direktori secara permanen
+

@@ -1,8 +1,7 @@
 # Svensk språkfil för Sparky Eraser.
 # Copyright 2015 Johnny Rosenberg <johnny.a.rosenberg@gmail.com> 2015-11-19
 # Under GNU GPL v2
-# Senast uppdaterad 2015-11-19
-
+# Last update 2018/08/03 by pavroo
 LOCAL1="Namn"
 LOCAL2="Beskrivning"
 LOCAL3="Avsluta"
@@ -24,7 +23,6 @@ LOCAL18="Klart!\n\nKlicka OK för att avsluta…"
 LOCAL19="Välj en katalog på en lokal hårddisk att radera"
 LOCAL20="Är du säker på att du vill radera följande katalog permanent?"
 LOCAL21="för att avsluta."
-
 ### .desktop file to be translated too
 # Name[sv_SE]=
 # Comment[sv_SE]=Radera filer och kataloger permanent

@@ -1,9 +1,8 @@
 # Japanese localization file for Sparky Eraser.
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
 # Under the GNU GPL v2
-# Last update 2015/12/23
+# Last update 2018/08/03 by pavroo
 # Translated to Japanese by BALLOON a.k.a. Fu-sen.
-
 LOCAL1="名前"
 LOCAL2="説明"
 LOCAL3="終了"
@@ -25,7 +24,6 @@ LOCAL18="完了！ \n\nOK のクリックで終了します..."
 LOCAL19="ローカルドライブの消去するディレクトリを選択して下さい"
 LOCAL20="永久にこれらのディレクトリを消去します:"
 LOCAL21="終了"
-
 ### .desktop file to be translated too
 # Name[ja_JP]=
 # Comment[ja_JP]=ファイル・ディレクトリの永久的な消去

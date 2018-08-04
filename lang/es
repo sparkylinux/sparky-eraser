@@ -1,8 +1,7 @@
 # Archivo de localización en español para Sparky Eraser.
 # Copyright 2015 Fernando "seacat" Velo <seacat.linux@gmail.com> 2015/12/23
 # Bajo la licencia GNU GPL v2
-# Ultima actualización 2015/12/23
-
+# Last update 2018/08/03 by pavroo
 LOCAL1="Nombre"
 LOCAL2="Descripción"
 LOCAL3="Salir"
@@ -24,7 +23,6 @@ LOCAL18="¡Hecho! \n\nHacer clic en OK para salir..."
 LOCAL19="Elegir el directorio a borrar en su disco local"
 LOCAL20="¿Está seguro de querer borrar permanentemente el directorio:"
 LOCAL21="para salir."
-
 ### .desktop file to be translated too
 # Name[es_AR]=
 # Comment[es_AR]=Borra permanentemente archivos y directorios

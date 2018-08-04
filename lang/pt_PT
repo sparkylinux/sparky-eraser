@@ -2,8 +2,7 @@
 # Copyright 2015 PaweÅ‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
 # Traduzido por José Vieira "zeh" <jvieira33@sapo.pt> 03/11/20166
 # Sob a Licença GNU GPL v2
-# Última atualização 2016/01/10
-
+# Last update 2018/08/03 by pavroo
 LOCAL1="Nome"
 LOCAL2="Descrição"
 LOCAL3="Sair"
@@ -25,7 +24,6 @@ LOCAL18="Feito! \n\nClique OK para sair..."
 LOCAL19="Selecione uma pasta dum disco local para ser eliminada"
 LOCAL20="Eliminar a pasta de modo permanente:"
 LOCAL21="para sair."
-
 ### .desktop ficheiro to be translated too
 # Name[pt_PT]=Sparky Eraser
 # Comment[pt_PT]=Elimina de modo permanente ficheiros e pastas

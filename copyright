@@ -2,7 +2,7 @@ Upstream Author(s):
     Paweł "pavroo" Pijanowski <pavroo@onet.eu>
 
 Files: *
-    Copyright (C) 2014, 2015, 2016 Paweł Pijanowski
+    Copyright (C) 2014-2018 Paweł Pijanowski
     License: GNU GPLv2
     
 File: de
@@ -15,6 +15,10 @@ File: es
 
 File: fr
     Copyright (C) 2016 hiver <hiver@club-internet.fr>
+    License: GPL-2
+
+File: id_ID
+    Copyright (C) 2018 les kompie
     License: GPL-2
 
 File: it
@@ -57,6 +61,3 @@ On Debian systems, the complete text of the GNU General
 Public License can be found in `/usr/share/common-licenses/GPL'.
 
 The Terms of the GPLv3 can be found online at http://www.gnu.org/copyleft/gpl.html
-
-The Debian packaging is (C) 2014, 2015, 2016 Paweł Pijanowski <pavroo@onet.eu> and
-is licensed under the GPL, see above.

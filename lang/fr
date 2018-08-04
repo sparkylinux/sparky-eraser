@@ -1,8 +1,7 @@
 ﻿# Fichier de localisation française de Sparky Eraser.
 # Copyright 2016 hiver <hiver@club-internet.fr> 2016/05/12
 # Sous licence GNU GPL v2
-# Dernière mise à jour 2016/06/05
-
+# Last update 2018/08/03 by pavroo
 LOCAL1="Nom"
 LOCAL2="Description"
 LOCAL3="Quitter"
@@ -24,7 +23,6 @@ LOCAL18="Fait! \n\nCliquez sur OK pour quitter..."
 LOCAL19="Sélectionnez un répertoire d'un disque local pour effacement"
 LOCAL20="Êtes-vous sûr de vouloir effacer définitivement le répertoire:"
 LOCAL21="Pour quitter."
-
 ### .desktop file to be translated too
 # Name[fr_FR]=Effacement
 # Comment[fr_FR]=effacer définitivement fichiers ou répertoires

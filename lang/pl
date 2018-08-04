@@ -1,9 +1,8 @@
 # Polish localization file for Sparky Eraser.
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
 # Under the GNU GPL v2
-# Last update 2015/10/31
+# Last update 2018/08/03 by pavroo
 # Translated to Polish by pavroo
-
 LOCAL1="Nazwa"
 LOCAL2="Opis"
 LOCAL3="Zakończ"
@@ -25,7 +24,6 @@ LOCAL18="Zrobione! \n\nKliknij OK aby zakończyć..."
 LOCAL19="Wybierz folder do usunięcia z dysku lokalnego"
 LOCAL20="Jesteś pewny, że chcesz pernamentnie usunąć katalog:"
 LOCAL21="aby zakończyć."
-
 ### .desktop file, również do przetłumaczenia
 # Name[pl_PL]=
 # Comment[pl_PL]=Pernamentnie usuń pliki i katalogi
