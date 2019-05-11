@@ -14,6 +14,7 @@ Comment[ja]=ファイル・ディレクトリの永久的な消去
 Comment[pl]=Pernamentnie usuń pliki i katalogi
 Comment[pt_BR]=Exclui de modo permanente arquivos e diretórios
 Comment[pt_PT]=Elimina de modo permanente ficheiros e pastas
+Comment[ru]=Надёжное удаление файлов и каталогов
 Comment[sv]=Radera filer och kataloger permanent
 Exec=/usr/bin/sparky-eraser
 Icon=user-trash-full

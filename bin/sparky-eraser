@@ -2,8 +2,8 @@
 
 #  Sparky Eraser is a simply GUI front-end for 'shred' and 'wipe' tools
 #  Created by Paweł "pavroo" Pijanowski 2014/02/10
-#  Last updated 2018/08/03 by pavro
-#  Copyright 2014-2018 under the GNU GPL2 License
+#  Copyright 2014-2019 under the GNU GPL2 License
+#  Last updated 2019/05/11 by pavroo
 
 # get default locale file
 DEFLOCDIR="/usr/share/sparky/sparky-eraser"
@@ -25,6 +25,8 @@ elif [ "`cat /etc/default/locale | grep pt_BR`" != "" ]; then
 . $DEFLOCDIR/pt_BR
 elif [ "`cat /etc/default/locale | grep pt_PT`" != "" ]; then
 . $DEFLOCDIR/pt_PT
+elif [ "`cat /etc/default/locale | grep ru`" != "" ]; then
+. $DEFLOCDIR/ru
 elif [ "`cat /etc/default/locale | grep sv`" != "" ]; then
 . $DEFLOCDIR/se
 else
@@ -33,7 +35,7 @@ fi
 
 DIALOG="`which yad` --window-icon=user-trash-full --width=450 --height=250 --center"
 DIALOG800="`which yad` --window-icon=user-trash-full --width=800 --height=600 --center"
-DIALOG600="`which yad` --window-icon=user-trash-full --width=600 --height=350 --center"
+DIALOG600="`which yad` --window-icon=user-trash-full --width=600 --height=350 --fixed --center"
 DIALOG150="`which yad` --window-icon=user-trash-full --width=450 --height=150 --center"
 TITLE="--always-print-result --dialog-sep --image=user-trash-full --title="
 TEXT="--text="
@@ -65,7 +67,7 @@ $DIALOG600 $TITLE"$TITLETEXT" $MSGBOX $TEXT"\n$LOCAL8\n\
 $LOCAL9\n\
 \n\
 $LOCAL10\n\
-su/sudo/remsu sparky-eraser \n\
+sudo/remsu sparky-eraser \n\
 \n\
 $LOCAL11\n\
 man shred \n\
