@@ -1,0 +1,28 @@
+# English localization file for Sparky Eraser.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
+# Under the GNU GPL v2
+# Last update 2018/08/03 by pavroo
+LOCAL1="Név"
+LOCAL2="Leírás"
+LOCAL3="Kilépés"
+LOCAL4="Kérjük, válasszon opciót!:"
+LOCAL5="Mi az a Sparky "Törlő" (Eraser) és mire használható, mire való?"
+LOCAL6="Törölje a fájlt!"
+LOCAL7="Törölje a mappát és annak tartalmát!"
+LOCAL8="A Sparky "Törlő" (Eraser) egy eszköz, amelyik véglegesen képes törölni fájlokat és könyvtárakat. \nA Sparky "Törlővel" (Eraser) törölt fájlok és mappák nem állíthatók könnyen vissza."
+LOCAL9="Ez megfelel olyanoknak, akik biztonságosan akarják törölni fájljaikat és mappáikat. \nAzon fájlok és mappák esetében működik, amelyekhez teljes hozzáférése van a külön (privát) HOME könyvtárában, lemezeken és partíciókon."
+LOCAL10="Ha használni szeretné a Törlőt (Eraser) más fájlok és könyvtárak esetében, root jogosultsággal futtassa:"
+LOCAL11="A Sparky "Törlő" (Eraser) egy egyszerű GUI kapcsoló (front-end) SHRED és WIPE eszközökhöz. \nTovábbi információkért ezen eszközökhöz futtassa:
+LOCAL12="A Sparky "Törlő"-t (Eraser) óvatosan saját felelősségre használja!" \nA Sparky "Törlő" (Eraser) a GNU GPLv2 License szerint közzétett."
+LOCAL13="Válasszon törlendő fájlt a helyi lemezen!"
+LOCAL14="Nincs törölve semmi! \n\nKattintson OK-t a kilépéshez."
+LOCAL15="Biztosan véglegesen törölni szeretné a (következő) fájlt?:"
+LOCAL16="Kattintson OK-t a kezdéshez vagy:"
+LOCAL17="Fájl törlése most. Kérjük, várjon..."
+LOCAL18="Kész! \n\nKattintson OK-t a kilépéshez..."
+LOCAL19="Válassza ki a helyi lemezről törlendő könyvtárat!"
+LOCAL20="Biztosan véglegesen törölni szeretné a (következő) könyvtárat?:""
+LOCAL21="kilépni."
+### .desktop file to be translated too
+# Name[en_US]=
+# Comment[en_US]=Pernamently erase files and directories
