@@ -3,12 +3,14 @@
 #  Sparky Eraser is a simply GUI front-end for 'shred' and 'wipe' tools
 #  Created by Paweł "pavroo" Pijanowski 2014/02/10
 #  Copyright 2014-2019 under the GNU GPL2 License
-#  Last updated 2019/10/19 by pavroo
+#  Last updated 2019/11/21 by pavroo
 
 # get default locale file
 DEFLOCDIR="/usr/share/sparky/sparky-eraser"
 if [ "`cat /etc/default/locale | grep de`" != "" ]; then
 . $DEFLOCDIR/de
+elif [ "`cat /etc/default/locale | grep el`" != "" ]; then
+. $DEFLOCDIR/el
 elif [ "`cat /etc/default/locale | grep es`" != "" ]; then
 . $DEFLOCDIR/es
 elif [ "`cat /etc/default/locale | grep fr`" != "" ]; then

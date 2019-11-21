@@ -6,6 +6,7 @@ GenericName=Eraser
 Name[fr]=Effacement
 Comment=Pernamently erase files and directories
 Comment[de]=Dateien und Verzeichnisse dauerhaft löschen
+Comment[el]=Διαγράφει μόνιμα αρχεία και φακέλους
 Comment[es]=Borra permanentemente archivos y directorios
 Comment[fr]=effacer définitivement fichiers ou répertoires
 Comment[id]=Menghapus file dan direktori secara permanen
