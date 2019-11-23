@@ -1,6 +1,5 @@
-Sparky About
-Sparky About uses a few tools to display some system informations
-via a GUI frontend built by Yad
+Sparky Eraser
+Eraser is a tool which can pernamently erases files and directories. It is a simply GUI front-end for SHRED and WIPE tools.
 
 Copyright (C) 2014-2019 Paweł Pijanowski and others, see copyright file.
 
