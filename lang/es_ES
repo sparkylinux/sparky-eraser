@@ -1,0 +1,29 @@
+# Spanish (es_ES) localization file for Sparky Eraser
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/31
+# Under the GNU GPL v2
+# Last update 2018/08/03 by pavroo
+# Translated by depaz
+LOCAL1="Nombre"
+LOCAL2="Descripción"
+LOCAL3="Salir"
+LOCAL4="Por favor, escoja una opción:"
+LOCAL5="¿Qué es Sparky Eraser y qué es lo que hace?"
+LOCAL6="Borrar un archivo"
+LOCAL7="Borrar una carpeta y su contenido"
+LOCAL8="Sparky Eraser es una herramienta que puede borrar permanentemente archivos y directorios. \nLos archivos y carpetas borrados con Sparky Eraser no pueden ser recuperados fácilmente."
+LOCAL9="Es apropiado para quienes quieran eliminar sus archivos y carpetas de forma segura. \nFunciona con archivos y carpetas ubicados en su directorio HOME personal y en discos \ny particiones a los que tenga acceso total."
+LOCAL10="Si quiere usar Eraser en otros archivos o directorios, con privilegios root, ejecute:"
+LOCAL11="Sparky Eraser es simplemente una interfaz gráfica para las herramientas SHRED y WIPE. \nPara más información acerca de esas herramientas, ejecute:"
+LOCAL12="Use Sparky Eraser con precaución y bajo su propio riesgo. \nSparky Eraser está publicada bajo la licencia GNU GPLv2."
+LOCAL13="Escoja un archivo a borrar de un disco local"
+LOCAL14="¡No se ha borrado nada! \n\nPulse Ok para salir."
+LOCAL15="¿Está seguro de que quiere borrar permanentemente el archivo:"
+LOCAL16="Pulse Ok para comenzar o"
+LOCAL17="Borrando archivo. Por favor, espere..."
+LOCAL18="¡Hecho! \n\nPulse Ok para salir..."
+LOCAL19="Escoja un directorio a borrar de un disco local"
+LOCAL20="¿Está seguro de que quiere borrar permanentemente el directorio:"
+LOCAL21="para salir."
+### .desktop file to be translated too
+# Name[es_ES]=
+# Comment[es_ES]=Borra permanentemente archivos y directorios
