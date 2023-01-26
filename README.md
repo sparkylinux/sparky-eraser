@@ -1,7 +1,7 @@
 Sparky Eraser
 Eraser is a tool which can pernamently erases files and directories. It is a simply GUI front-end for SHRED and WIPE tools.
 
-Copyright (C) 2014-2022 Paweł Pijanowski and others, see copyright file.
+Copyright (C) 2014-2023 Paweł Pijanowski and others, see copyright file.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
