@@ -16,16 +16,16 @@
 
 if [ "$1" = "uninstall" ]; then
 	rm -f /usr/bin/sparky-eraser
-	rm -f /usr/lib/sparkycenter/system/sparky-eraser.desktop
+	# rm -f /usr/lib/sparkycenter/system/sparky-eraser.desktop
 	rm -f /usr/share/applications/sparky-eraser.desktop
 	rm -f /usr/share/menu/sparky-eraser
 	rm -rf /usr/share/sparky/sparky-eraser
 else
 	cp bin/* /usr/bin/
-	if [ ! -d /usr/lib/sparkycenter/system ]; then
-		mkdir -p /usr/lib/sparkycenter/system
-	fi
-	cp share/sparky-eraser.desktop /usr/lib/sparkycenter/system/
+	#if [ ! -d /usr/lib/sparkycenter/system ]; then
+	#	mkdir -p /usr/lib/sparkycenter/system
+	#fi
+	# cp share/sparky-eraser.desktop /usr/lib/sparkycenter/system/
 	cp share/sparky-eraser.desktop /usr/share/applications/
 	cp share/sparky-eraser /usr/share/menu/
 	if [ ! -d /usr/share/sparky/sparky-eraser ]; then

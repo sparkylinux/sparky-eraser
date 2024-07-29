@@ -1,0 +1,28 @@
+# Suomenkielinens lokalisointitiedosto Sparky Eraserille.
+# Tekijänoikeus 2015 PaweÅ‚ "pavroo" Pijanowski <pavroo@onet.eu> 31.10.2015
+# GNU GPL v2:n alla
+# Viimeisin päivitys 2018/08/03 pavroo
+LOCAL1="Nimi"
+LOCAL2="Kuvaus"
+LOCAL3="Poistu"
+LOCAL4="Valitse vaihtoehto:"
+LOCAL5="Mikä Sparky Eraser on ja mitä se tekee?"
+LOCAL6="Poista tiedosto"
+LOCAL7="Poista kansio ja sen sisältö"
+LOCAL8="Sparky Eraser on työkalu, joka voi pysyvästi poistaa tiedostoja ja hakemistoja. \nSparky Eraserin poistamia tiedostoja ja kansioita ei voida palauttaa helposti."
+LOCAL9="Se sopii ihmisille, jotka haluavat poistaa tiedostonsa ja kansionsa turvallisesti. \nSe toimii yksityisessä HOME-hakemistossasi olevien tiedostojen ja kansioiden sekä levyjen ja osioiden kanssa, joihin sinulla on täysi käyttöoikeus."
+LOCAL10="Jos haluat käyttää Eraseria muissa tiedostoissa tai hakemistoissa pääkäyttäjän oikeuksin, suorita:"
+LOCAL11="Sparky Eraser on yksinkertainen käyttöliittymä SHRED- ja WIPE-työkaluille. \nSaat lisätietoja työkaluista suorittamalla:"
+LOCAL12="Käytä Sparky Eraseria huolellisesti omalla vastuullasi. \nSparky Eraser on julkaistu GNU GPLv2 -lisenssillä."
+LOCAL13="Valitse tiedosto paikalliselta asemalta poistettavaksi"
+LOCAL14="Mitään ei ole poistettu! \n\nLopeta napsauttamalla OK."
+LOCAL15="Haluatko varmasti poistaa tiedoston pysyvästi:"
+LOCAL16="Klikkaa OK aloittaaksesi tai"
+LOCAL17="Tiedostoa poistetaan nyt. Odota..."
+LOCAL18="Valmis! \n\nLopeta napsauttamalla OK..."
+LOCAL19="Valitse paikalliselta asemalta poistettava hakemisto"
+LOCAL20="Haluatko varmasti poistaa hakemiston pysyvästi:"
+LOCAL21="lopeta."
+### .desktop-tiedosto käännettävä myös
+# Nimi[fi]=
+# Comment[fi]=Poista tiedostot ja hakemistot pysyvästi
